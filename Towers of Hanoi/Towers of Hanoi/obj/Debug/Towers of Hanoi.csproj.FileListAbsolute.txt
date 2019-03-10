@@ -1,0 +1,9 @@
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Form1.resources
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+c:\users\pinheiro\documents\visual studio 2015\Projects\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
